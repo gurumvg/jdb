@@ -1,6 +1,5 @@
 {
-    "db": {
-     "polls": [
+    "polls": [
         {
         "id": 1,    
         "name": "Do you want to select Mr.Guru(302) as Treasurer ?",
@@ -25,5 +24,4 @@
             
         }
        ]
-    }
 }
