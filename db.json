@@ -1,5 +1,6 @@
 {
-    "polls": [
+    db: {
+     "polls": [
         {
         "id": 1,    
         "name": "Do you want to select Mr.Guru(302) as Treasurer ?",
@@ -13,5 +14,16 @@
         "options": ["Ravi Babu", "Sateesh Babu", "Anand"],
         "status": "pending"
     }
-    ]
+    ],
+    "completed":[
+        {
+            "id": 11,    
+            "name": "Do you want to select Mr.Guru(302) as Treasurer Completed ?",
+            "actionTitle": "HDo you want to select Mr.Guru(302) as Treasurer ?",
+            "options": ["YES", "NO", "ANYTHING IS FINE"],
+            "status": "completed"
+            
+        }
+       ]
+    }
 }
