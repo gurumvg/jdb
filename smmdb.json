@@ -1,0 +1,17 @@
+{
+  "polls": {
+                    "name": "Do you want to select Mr.Guru(302) as Treasurer ?",
+                    "actionTitle": "HDo you want to select Mr.Guru(302) as Treasurer ?",
+                    "options": ["YES", "NO", "ANYTHING IS FINE"],
+                    "status": "pending"
+                },
+                {
+					"name": "Whom do you want to select as President ?",
+					"actionTitle": "Whom do you want to select as President ?",
+                    "options": ["Ravi Babu", "Sateesh Babu", "Anand"],
+					"status": "pending"
+                }
+                
+
+
+}
